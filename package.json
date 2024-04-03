@@ -9,7 +9,7 @@
   "scripts": {
     "test": "k6 run"
   },
-  "author": "Md. Farhan Labib",
+  "author": "Shashank",
   "license": "ISC",
   "dependencies": {
     "k6": "^0.0.0"
